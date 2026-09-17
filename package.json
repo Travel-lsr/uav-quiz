@@ -1,0 +1,10 @@
+{
+  "name": "uav-quiz-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "无人机培训刷题宝 - 单选/多选/判断三套独立题库",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
